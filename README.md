@@ -1,6 +1,7 @@
 # Weather React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a weather online app that uses public APIs from [OpenWeather](openweathermap.org) and stock images, making it attainable to anyone with an internet connection.
 
 ## Available Scripts
 
